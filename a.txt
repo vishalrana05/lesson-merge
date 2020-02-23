@@ -1,0 +1,4 @@
+how to write a code in c program 
+how to run a program using command 
+how to created a repository
+how remove the repository
